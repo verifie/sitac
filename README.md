@@ -9,7 +9,7 @@ Designed for systems that must answer the two questions every auditor asks:
 
 > “What did this record say on that date, and who changed it?”
 
-Compatible with the compliance narratives required by **ISO 27001**, **SOC 2**, and **UK GDPR** (accountability & storage limitation).
+Designed to support auditability and data-governance controls relevant to ISO 27001, SOC 2®, and UK GDPR, including accountability and storage limitation.
 
 ---
 
