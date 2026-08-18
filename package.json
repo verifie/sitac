@@ -42,12 +42,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/sitac-core.git"
+    "url": "https://github.com/verifie/sitac.git"
   },
   "bugs": {
-    "url": "https://github.com/your-org/sitac-core/issues"
+    "url": "https://github.com/verifie/sitac/issues"
   },
-  "homepage": "https://github.com/your-org/sitac-core#readme",
+  "homepage": "https://github.com/verifie/sitac#readme",
   "engines": {
     "node": ">=16.0.0"
   },

@@ -291,7 +291,7 @@ This open-source engine is maintained by **SITAC Consultancy**.
 - Team training workshops
 - Version-history UI kit and compliance evidence generator (paid)
 
-See the [consultancy services page](https://example.com/sitac-services) or contact the author.
+Professional implementation, audit support and training services are available from the author.
 
 ---
 
